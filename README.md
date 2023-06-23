@@ -8,7 +8,6 @@ Features
 	Integration with a weather API to fetch weather data
 
 
-
 Installation
 1.Clone the repository:
 
